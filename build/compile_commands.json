@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zuoyuan/my_opencv_test/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/my_app.dir/main.cpp.o -c /home/zuoyuan/my_opencv_test/main.cpp",
+  "file": "/home/zuoyuan/my_opencv_test/main.cpp"
+}
+]
